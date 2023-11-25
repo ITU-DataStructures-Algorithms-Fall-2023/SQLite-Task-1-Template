@@ -1,6 +1,6 @@
 # Task-1
 
-**Deadline:** 25-11-2023, 9:00 PM
+**Deadline:** 25-11-2023, 11:59 PM
 
 Read the SQLite specification file for this project before attempting this assignment.
 Try to make multiple commits but only a single push to the remote repository.
